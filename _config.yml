@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinchao Liu"
+title                    : "Xinchao Liu's Homepage"
 title_separator          : "-"
 name                     : &name "Xinchao Liu"
 description              : &description "PhD student at the University of Arkansas"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -83,33 +83,33 @@ author:
   name             : "Xinchao Liu"
   avatar           : "me.jpg"
   bio              : "Research Assistant"
-  location         : "University of Arkansas, Fayetteville, US"
+  location         : "University of Arkansas, US"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=3B74DCAAAAAJ"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Xinchao-Liu-2"
+  researchgate     : "https://www.researchgate.net/profile/Xinchao-Liu-2"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/xinchao.liu.37"
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/lxc95"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
