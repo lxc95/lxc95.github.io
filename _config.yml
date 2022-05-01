@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "“the road is life”"
+  name             : # "“the road is life”"
   avatar           : "me.jpg"
   bio              : "Research Assistant"
   location         : "University of Arkansas, US"
@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _awards
   - scope:
       path: ""
-      type: teaching
+      type: awards
     values:
       layout: single
       author_profile: true
