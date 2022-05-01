@@ -82,7 +82,7 @@ analytics:
 author:
   name             : # "“the road is life”"
   avatar           : "me.jpg"
-  bio              : "Research Assistant"
+  bio              : # "Research Assistant"
   location         : "University of Arkansas, US"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
