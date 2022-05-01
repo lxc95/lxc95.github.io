@@ -7,5 +7,6 @@ date: 2021-11-01
 venue: 'Aerospace Science and Technology'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1270963821005885'
 
-[Download paper here](https://www.sciencedirect.com/science/article/pii/S1270963821005885)
+---
 
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
