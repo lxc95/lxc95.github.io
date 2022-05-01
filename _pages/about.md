@@ -18,6 +18,6 @@ EBM Additive Manufacturing
 
 Drone FE modeling
 
-![Bird Strike simulation](/images/BirdProve.png)
+![Bird Strike simulation](/images/BirdStrike.png)
 
 Bird Strike simulation
