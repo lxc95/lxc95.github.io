@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 About me
 ------
  I am a PhD candidate at the [department of Industrial Engineering](https://industrial-engineering.uark.edu/index.php), [University of Arkansas](https://www.uark.edu/), under the supervision of [Dr. Xiao Liu](https://industrial-engineering.uark.edu/directory/index/uid/xl027/name/Xiao+Liu/). My research interests are [Scientific Machine Learning](https://sites.brown.edu/bergen-lab/research/what-is-sciml/), Applied Data Science, [Uncertainty Quantification](https://en.wikipedia.org/wiki/Uncertainty_quantification), [Digital Twin Modeling](https://www.ibm.com/topics/what-is-a-digital-twin), and [Drone](https://en.wikipedia.org/wiki/Drone).
